@@ -1,0 +1,7 @@
+# invalid obj - bad face format
+
+v 1. 1	1
+# 5 vertices
+
+ff 1 2/0 3/0/0
+
